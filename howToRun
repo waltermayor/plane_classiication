@@ -1,0 +1,6 @@
+go to the folder scripts.
+run the python program main.py as:
+
+python main.py b1.laz
+
+b1.laz is a pointcloud that is in the folder dataset_input 

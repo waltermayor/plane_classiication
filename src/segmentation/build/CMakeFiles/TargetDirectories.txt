@@ -1,0 +1,3 @@
+/media/walter/E/dockerPrograms/dtm_uk/plane_classification/src/segmentation/build/CMakeFiles/edit_cache.dir
+/media/walter/E/dockerPrograms/dtm_uk/plane_classification/src/segmentation/build/CMakeFiles/classificationMap.dir
+/media/walter/E/dockerPrograms/dtm_uk/plane_classification/src/segmentation/build/CMakeFiles/rebuild_cache.dir
